@@ -1,0 +1,12 @@
+tqdm
+ipython
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+jupyter
+seaborn
+statsmodels
+jax
+jaxlib
